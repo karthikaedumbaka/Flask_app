@@ -1,9 +1,3 @@
 {
-    "users": [
-        {
-            "username": "Karthik_Aedumbaka",
-            "email": "aedumbakakarthik1@gmail.com",
-            "password": "Klay"
-        }
-    ]
+    "users": []
 }
